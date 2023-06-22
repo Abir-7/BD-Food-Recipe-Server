@@ -1,0 +1,564 @@
+[
+    {
+        "id": 1,
+        "picture": "https://img.freepik.com/free-photo/pleased-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-white-space_141793-44710.jpg?w=1380&t=st=1682972248~exp=1682972848~hmac=ce2d02db540bfcc9e69efaa160846882631908a10a81b94cee934fb00dcfc43d",
+        "name": "Kamrul Hasan",
+        "bio": "Chef Kamrul Hasan is a renowned chef in Bangladesh. He is known for his modern take on traditional Bengali cuisine, and his use of unique and creative ingredients. Chef Kabir has worked in several high-end restaurants in Bangladesh and has won numerous awards for his culinary skills.",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 60,
+        "likes": 2000,
+        "recipe": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/free-photo/top-view-delicious-fish-meal-tray_23-2148734692.jpg?w=1380&t=st=1683011404~exp=1683012004~hmac=5fdfa66604a61d9eb629fe88434dcaf58b29dfa94e779e8f0336f468cace8463",
+                "name": "Fish Curry",
+                "ingredients": [
+                    "1 lb fish (cut into pieces)",
+                    "1 onion (chopped)",
+                    "2 tomatoes (chopped)",
+                    "2-3 green chillies (slit lengthwise)",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp garam masala powder",
+                    "2-3 tbsp vegetable oil",
+                    "salt to taste",
+                    "1/2 cup water",
+                    "2 tbsp chopped coriander leaves (for garnish)"
+                  ],
+                "cookingMethod": "1. Heat oil in a pan over medium-high heat.\n2. Add onions and green chillies, and sauté until onions become translucent.\n3. Add ginger and garlic paste and cook for a minute.\n4. Add tomatoes, turmeric powder, cumin powder, coriander powder, red chilli powder, and salt to taste. Mix well and cook for 5-7 minutes until tomatoes become soft and the masala releases oil.\n5. Add fish pieces to the pan and gently mix with the masala.\n6. Add 1/2 cup water, cover the pan, and let it simmer for 10-15 minutes or until fish is cooked through.\n7. Sprinkle garam masala powder over the fish curry and mix well.\n8. Garnish with chopped coriander leaves and serve hot with steamed rice or naan.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/chicken-red-curry-black-cup_1150-23915.jpg?w=1380&t=st=1683011643~exp=1683012243~hmac=2ee2f9d52cfc82e98155de1541206b268db6676716ada2908291bf9a0bad0d53",
+                "name": "Chicken Curry",
+                "ingredients": [
+                    "1 kg chicken (cut into pieces)",
+                    "2 onions (chopped)",
+                    "3 tomatoes (chopped)",
+                    "2-3 green chillies (slit lengthwise)",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp garam masala powder",
+                    "4 tbsp vegetable oil",
+                    "salt to taste",
+                    "1/2 cup water",
+                    "2 tbsp chopped coriander leaves (for garnish)"
+                  ],
+                "cookingMethod": "1. Heat oil in a pan over medium-high heat.\n2. Add onions and green chillies, and sauté until onions become translucent.\n3. Add ginger and garlic paste and cook for a minute.\n4. Add tomatoes, turmeric powder, cumin powder, coriander powder, red chilli powder, and salt to taste. Mix well and cook for 5-7 minutes until tomatoes become soft and the masala releases oil.\n5. Add chicken pieces to the pan and gently mix with the masala.\n6. Add 1/2 cup water, cover the pan, and let it simmer for 20-25 minutes or until chicken is cooked through.\n7. Add garam masala powder and mix well. Cook for 1-2 minutes.\n8. Garnish with chopped coriander leaves and serve hot with rice or bread.\n",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/free-photo/delicious-goulash-stew-table_23-2149371729.jpg?w=1380&t=st=1683011578~exp=1683012178~hmac=df02ac08888b1546c0b21fb1c441287a3cd794d944a36a18a8c92f183fb81aa9",
+                "name": "Beef Curry",
+                "ingredients":[
+                    "1 kg beef (cut into cubes)",
+                    "2 onions (chopped)",
+                    "2 tomatoes (chopped)",
+                    "2-3 green chillies (slit lengthwise)",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "1 tsp turmeric powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp garam masala powder",
+                    "4 tbsp vegetable oil",
+                    "salt to taste",
+                    "1/2 cup water",
+                    "2 tbsp chopped coriander leaves (for garnish)"
+                  ],
+                "cookingMethod": "1. Heat oil in a pan over medium-high heat. \n2. Add onions and green chillies, and sauté until onions become translucent. \n3. Add ginger and garlic paste and cook for a minute. \n4. Add tomatoes, turmeric powder, cumin powder, coriander powder, red chilli powder, and salt to taste. Mix well and cook for 5-7 minutes until tomatoes become soft and the masala releases oil. \n5. Add beef cubes to the pan and gently mix with the masala. \n6. Add 1/2 cup water, cover the pan, and let it simmer for 30-40 minutes until the beef is tender. \n7. Sprinkle garam masala and chopped coriander leaves on top before serving.",
+                "rating": 4.3
+            },
+            {
+                "id": 4,
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=1380&t=st=1683009735~exp=1683010335~hmac=1f8ce304c14273eb7c7719236d6d1a44c1995bee5b65371bbb79fe07c6acc7aa",
+                "name": "Chiken Fry",
+                "ingredients": [
+                    "1 lb chicken (cut into small pieces)",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp garam masala powder",
+                    "1/4 tsp turmeric powder",
+                    "1/4 cup all-purpose flour",
+                    "1/4 cup cornflour",
+                    "1/4 cup breadcrumbs",
+                    "2 tbsp vegetable oil",
+                    "salt to taste"
+                  ],
+                "cookingMethod": "1. Wash the chicken pieces and pat them dry with paper towels. 2. In a bowl, mix the chicken pieces with ginger paste, garlic paste, red chilli powder, coriander powder, cumin powder, garam masala powder, turmeric powder, and salt. Mix well and let it marinate for 30 minutes. 3. In another bowl, mix all-purpose flour, cornflour, breadcrumbs, and a pinch of salt. 4. Dip each chicken piece in the flour mixture and coat well on all sides. 5. Heat oil in a frying pan over medium-high heat. 6. Fry the chicken pieces in the oil until they are crispy and golden brown on all sides, turning occasionally. This should take about 8-10 minutes. 7. Once the chicken is cooked through and crispy, remove it from the pan and place it on a paper towel to drain off the excess oil. 8. Serve hot with your favorite dipping sauce.",
+                "rating": 4.8
+            },
+            {
+                "id": 5,
+                "image": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?w=1380&t=st=1683009591~exp=1683010191~hmac=6203adbcc085a08ca067f459697b8a6129a71e659e7cb9199818c43fd303119d",
+                "name": "Chicken Biriyani",
+                "ingredients": [
+                    "1 lb chicken",
+                    "2 cups basmati rice",
+                    "1 onion, chopped",
+                    "1 tomato, chopped",
+                    "2 green chillies, chopped",
+                    "1 tbsp ginger-garlic paste",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala powder",
+                    "1/2 tsp turmeric powder",
+                    "1/4 cup yogurt",
+                    "1/4 cup mint leaves, chopped",
+                    "1/4 cup cilantro leaves, chopped",
+                    "4 cups water",
+                    "4 tbsp vegetable oil",
+                    "salt to taste"
+                  ],
+                "cookingMethod": "1. Wash the rice and soak it in water for 30 minutes. Drain and keep aside. \n2. Heat oil in a pan over medium-high heat. Add cumin seeds and let them splutter. Add chopped onion and fry until golden brown. \n3. Add chopped tomato, green chillies, ginger-garlic paste, coriander powder, garam masala powder, turmeric powder, and salt. Cook until the tomato is soft and mushy. \n4. Add chicken pieces and fry until they are browned on all sides. \n5. Add yogurt, mint leaves, and cilantro leaves. Mix well and cook for 2-3 minutes. \n6. In a separate pot, boil 4 cups of water. Add the soaked rice and cook until it's about 80% done. Drain the excess water. \n7. In a large pot, layer the chicken masala and rice, starting with the chicken masala. Repeat the layering until all the masala and rice are used up. Cover the pot with a tight-fitting lid. \n8. Cook on low heat for 20-25 minutes or until the rice is fully cooked. \n9. Serve hot with raita and salad.",
+                "rating": 3.7
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://img.freepik.com/free-photo/confident-handsome-young-bearded-chef-man-wearing-white-cooker-uniform-hat-pointing-up-while-looking-white-wall_141793-32408.jpg",
+        "name": "Maruf Hosen",
+        "bio": "With over 15 years of experience in the food industry, Chef Maruf Hosen is a highly respected chef in Bangladesh. He is known for his expertise in Mughlai cuisine and his ability to create dishes with bold and complex flavors. Chef Akhtar has trained under some of the best chefs in India and has worked in several prestigious hotels and restaurants in Bangladesh.",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 80,
+        "likes": 3000,
+        "recipe": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/free-photo/top-view-delicious-lentils-soup-inside-plate-light-surface-plant-soup-color-photo-food-seed-dish_140725-108887.jpg?w=1380&t=st=1683011831~exp=1683012431~hmac=da597eb36576878757285b8f59efbf679f088a0dbbeb20d4d18916dba053e99a",
+                "name": "Halim",
+                "ingredients": [
+                    "1 cup wheat grains",
+                    "1/2 cup split yellow lentils (moong dal)",
+                    "1/2 cup split Bengal gram (chana dal)",
+                    "1/2 cup split black gram (urad dal)",
+                    "1/2 cup rice",
+                    "1 lb boneless mutton or beef",
+                    "1/2 cup ghee or oil",
+                    "2 large onions, chopped",
+                    "2 tbsp ginger paste",
+                    "2 tbsp garlic paste",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp red chilli powder",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp garam masala powder",
+                    "salt to taste",
+                    "lemon wedges and chopped cilantro, for garnish"
+                  ],
+                "cookingMethod": "1. Wash the wheat grains, lentils, and rice separately and soak them in water for 3-4 hours or overnight. Drain and set aside. \n2. In a large pot, add the soaked grains, lentils, and rice along with 8-10 cups of water. Bring to a boil and then reduce the heat to low. Cover and cook for 4-5 hours, stirring occasionally, until the grains and lentils are soft and mushy. \n3. In a separate pot, cook the boneless mutton or beef with enough water to cover until it is tender and falls apart easily. \n4. Heat ghee or oil in a pan and add the chopped onions. Fry until they are golden brown. \n5. Add ginger paste and garlic paste and fry for another 1-2 minutes. \n6. Add the cooked meat, cumin powder, coriander powder, red chilli powder, turmeric powder, garam masala powder, and salt. Mix well and fry for 5-6 minutes. \n7. Add the cooked grains and lentils to the meat mixture and mix well. Add water if needed to achieve the desired consistency. Simmer for 10-15 minutes, stirring occasionally. \n8. Serve hot with lemon wedges and chopped cilantro for garnish.",
+                "rating": 4.4
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/side-close-view-veggie-salad-red-napkin-with-veggies-fork-side-dark-grey-background_140725-134114.jpg?w=1380&t=st=1683011966~exp=1683012566~hmac=d2e826d4cf70c2273045814b32d15c69290a9ccc1808ee08fe34637de4030072",
+                "name": "Fruit Salad",
+                "ingredients":  [
+                    "1 cup strawberries (halved)",
+                    "1 cup blueberries",
+                    "1 cup grapes (halved)",
+                    "1 cup pineapple (diced)",
+                    "1 banana (sliced)",
+                    "1 apple (diced)",
+                    "1 tbsp honey",
+                    "1 tbsp lemon juice",
+                    "1/4 tsp ground cinnamon"
+                  ],
+                "cookingMethod": "1. Wash and prepare all the fruits as needed. Cut the strawberries in halves, grapes in halves, pineapple in cubes, and slice the banana and apple. 2. In a small bowl, whisk together honey, lemon juice, and ground cinnamon. 3. In a large bowl, add all the fruits and pour the honey mixture over them. Toss well to coat all the fruits with the dressing. 4. Chill the fruit salad in the refrigerator for at least 30 minutes. 5. Serve chilled.",
+                "rating": 4.7
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/free-photo/closeup-delicious-slices-fried-eggplants-covered-oil-spices_181624-58211.jpg?w=1380&t=st=1683012108~exp=1683012708~hmac=1718092b5657251f417933f49c00246a488d6edaf3ba06a0cda6d96af3f14eab",
+                "name": "Fried Eggplant",
+                "ingredients": [
+                    "2 1/4 cups all-purpose flour",
+                    "1 teaspoon baking soda",
+                    "1 teaspoon salt",
+                    "1 cup unsalted butter, softened",
+                    "3/4 cup white sugar",
+                    "3/4 cup brown sugar",
+                    "2 large eggs",
+                    "1 teaspoon vanilla extract",
+                    "2 cups semisweet chocolate chips"
+                ],
+                "cookingMethod": "1. Preheat the oven to 375°F (190°C). 2. In a shallow bowl, mix the flour, salt, and black pepper. In another shallow bowl, beat the eggs. In a third shallow bowl, mix the breadcrumbs and Parmesan cheese. 3. Dip each eggplant slice in the flour mixture, then in the beaten eggs, and then in the breadcrumb mixture, making sure to coat both sides well. 4. Heat the vegetable oil in a large skillet over medium-high heat. 5. Fry the eggplant slices until they are golden brown and crispy, about 2-3 minutes per side. 6. Once the eggplant slices are crispy, transfer them to a baking sheet lined with parchment paper. 7. Bake the eggplant slices in the preheated oven for 10-12 minutes, until they are fully cooked and tender. 8. Serve hot as a side dish or appetizer.",
+                "rating": 4.0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-white-wall-isolated-orange-wall-with-copy-space_141793-101130.jpg?w=1380&t=st=1682973878~exp=1682974478~hmac=8bdd64cfec339c4497cb9be86f1c283145247e541dc9631ab5fbaa194b1a519d",
+        "name": "Imran Ali",
+        "bio": "Chef Imran Ali is a master of bangali dishes and is considered one of the best  chefs in Bangladesh. He has over 5 years of experience in the food industry and has worked in several high-end restaurants in the country. Chef Alam is known for his ability to create dishes that showcase the natural flavors of the food he uses.",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 40,
+        "likes": 1500,
+        "recipe": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/free-photo/green-curry-with-eggs-black-cups-with-lemon-lemongrass-chili-tomatoes_1150-25745.jpg?w=1380&t=st=1683012349~exp=1683012949~hmac=56c724ce265bee0b6aaa26bfafa33a488bccbcc7958444f308f34d3301007989",
+                "name": "Dimer Korma",
+                "ingredients": [
+                    "4 boiled eggs",
+                    "1/2 cup chopped onion",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1/2 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp garam masala powder",
+                    "1/4 cup plain yogurt",
+                    "1/4 cup heavy cream",
+                    "2 tbsp vegetable oil",
+                    "salt to taste",
+                    "chopped cilantro for garnish"
+                  ],
+                "cookingMethod": "1. In a frying pan, heat the oil over medium heat. Add chopped onions and fry until they turn translucent. 2. Add ginger paste and garlic paste to the pan and fry until the raw smell goes away. 3. Add turmeric powder, red chilli powder, coriander powder, cumin powder, garam masala powder, and salt to the pan. Mix well and fry for 1-2 minutes. 4. Add the boiled eggs to the pan and coat them well with the spice mixture. Fry for 1-2 minutes. 5. In a separate bowl, mix plain yogurt and heavy cream. Add this mixture to the pan and mix well. 6. Cook for 5-7 minutes or until the gravy thickens. 7. Garnish with chopped cilantro and serve hot with rice or naan.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/fried-rice-with-minced-pork-tomato-carrot-cucumber-plate_1150-27182.jpg?w=1380&t=st=1683012691~exp=1683013291~hmac=ea9063d9b5a668c6bf2e6a480c9f5ad561280b6c261a5f5a4c860395b0fa33d1",
+                "name": "Fried Rice",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1/2 cup mixed vegetables (carrots, peas, corn, and/or green beans)",
+                    "1/4 cup diced onion",
+                    "2 cloves garlic, minced",
+                    "2 eggs, beaten",
+                    "1 tbsp vegetable oil",
+                    "1 tbsp soy sauce",
+                    "1/4 tsp black pepper",
+                    "salt to taste"
+                  ],
+                "cookingMethod": "1. Heat oil in a large frying pan or wok over medium-high heat. 2. Add the diced onion and minced garlic and sauté for 1-2 minutes until fragrant. 3. Add the mixed vegetables and sauté for 2-3 minutes until tender. 4. Push the vegetables to one side of the pan and add the beaten eggs to the other side. Scramble the eggs until fully cooked, and then mix with the vegetables. 5. Add the cooked rice to the pan and stir until the rice is evenly coated with the vegetable and egg mixture. 6. Add soy sauce, black pepper, and salt to taste. Mix well and cook for an additional 2-3 minutes until the rice is heated through. 7. Serve hot.",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/free-photo/semiya-payasam-shewai-sewai-khir-seviyan-kheer-is-indian-sweet-made-with-vermicelli-milk-ghee-sugar-jaggery-raisins-nuts_466689-75455.jpg?w=1380&t=st=1683012823~exp=1683013423~hmac=2795a7dc7907906d5c3a7174c6df6f4a6b7085b5c728b22b0530071d52883f5b",
+                "name": "Lachcha Semai",
+                "ingredients": [
+                    "200g Lachcha Semai (vermicelli)",
+                    "1/4 cup ghee (clarified butter)",
+                    "1/2 cup sugar",
+                    "1/2 cup water",
+                    "1/4 cup raisins",
+                    "1/4 cup cashews",
+                    "1/4 cup almonds (sliced)",
+                    "1/4 tsp cardamom powder",
+                    "1 tbsp rose water"
+                  ],
+                "cookingMethod": "1. In a pan, heat the ghee and add the Lachcha Semai. Roast it until it turns golden brown and set it aside.\n2. In the same pan, add sugar and water. Bring it to a boil until the sugar dissolves and forms a syrup. Add the raisins, cashews, and almonds.\n3. Add the roasted Lachcha Semai to the syrup mixture and mix well.\n4. Add cardamom powder and mix well. Turn off the heat and add rose water.\n5. Serve hot and enjoy!",
+                "rating": 4.3
+            },
+            {
+                "id": 4,
+                "image": "https://img.freepik.com/free-photo/close-up-rice-with-carrots-garnished-with-lamb-pieces-served-with-pickles-yogurt_141793-2051.jpg?w=1380&t=st=1683011175~exp=1683011775~hmac=dc757eff1fd4ac439b25356e26da19f32885aaad8b36c7ffebdde5547e77af92",
+                "name": "Beef Biryani",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "2 lbs beef, cut into cubes",
+                    "1 large onion, thinly sliced",
+                    "4 cloves garlic, minced",
+                    "1 inch ginger, grated",
+                    "2 tomatoes, diced",
+                    "1/2 cup plain yogurt",
+                    "1/4 cup cooking oil",
+                    "1 tsp cumin seeds",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala",
+                    "1 tsp turmeric",
+                    "1 tsp red chili powder",
+                    "1/4 cup chopped cilantro",
+                    "Salt to taste",
+                    "3 cups water"
+                  ],
+                "cookingMethod": "1. Wash the rice and soak it in cold water for 30 minutes. Drain and set aside. 2. Heat ghee or vegetable oil in a large pot over medium heat. Add onion and fry until golden brown. 3. Add beef, ginger paste, garlic paste, green chillies, cumin powder, coriander powder, turmeric powder, red chilli powder, and salt. Mix well and cook until the beef is browned on all sides. 4. Add yogurt, water, bay leaf, cardamom pods, cloves, and cinnamon stick. Mix well and bring to a boil. 5. Reduce the heat to low and cover the pot. Cook for 30-40 minutes, or until the beef is tender and cooked through. 6. In a separate pot, bring 4 cups of water to a boil. Add rice and a pinch of salt. Cook until the rice is almost done, then drain. 7. Preheat the oven to 350°F. 8. Grease a baking dish with ghee or vegetable oil. 9. Add half of the rice to the bottom of the dish. 10. Add the cooked beef mixture on top of the rice. 11. Add the remaining rice on top of the beef mixture. 12. Cover the dish with foil and bake for 20-25 minutes, or until the rice is fully cooked. 13. Serve hot, garnished with fresh cilantro.",
+                "rating": 4.1
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "https://img.freepik.com/free-photo/young-male-standing-with-crossed-arms-shirt-apron-looking-confident_176474-22769.jpg?w=1380&t=st=1682973930~exp=1682974530~hmac=8da4c0db3e48b34fe67a153957104586063d0d78248c60850e9deb214b7cf898",
+        "name": "Abdus Salam",
+        "bio": "With over 12 years of experience in the culinary industry, Chef Abdus Salam is a well-known figure in Bangladesh's food scene. He specializes in Mediterranean cuisine and is known for his signature dishes that blend traditional flavors with modern techniques.",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 70,
+        "likes": 2500,
+        "recipe": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?w=1380&t=st=1683010867~exp=1683011467~hmac=aa04feeb8753839f97e8c707c80da0625779a7ba846bfa20d4f45f6ae6b3211e",
+                "name": "Beef Khichuri",
+                "ingredients": [
+                    "1 cup basmati rice",
+                    "1 cup split yellow lentils (masoor dal)",
+                    "1 lb beef (cut into small pieces)",
+                    "1 onion (finely chopped)",
+                    "2 garlic cloves (minced)",
+                    "1 tsp ginger paste",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp red chilli powder",
+                    "2 tbsp vegetable oil",
+                    "4 cups water",
+                    "salt to taste"
+                  ],
+                "cookingMethod": "1. Wash the basmati rice and yellow lentils in separate bowls and soak them for 30 minutes. Drain the water and keep aside. 2. In a pressure cooker, heat vegetable oil over medium-high heat. Add chopped onions, minced garlic, and ginger paste. Saute until the onions are translucent. 3. Add beef pieces and saute until they are browned on all sides. 4. Add cumin powder, coriander powder, turmeric powder, red chilli powder, and salt. Stir for a minute. 5. Add the soaked basmati rice and lentils to the pressure cooker. Stir well to coat them with the spices. 6. Add 4 cups of water and stir again. Close the pressure cooker lid and cook for 2-3 whistles or until the rice and lentils are cooked through. 7. Once the pressure cooker releases the steam, open the lid and stir the khichuri. 8. Serve hot with your favorite sides, such as fried eggplant, cucumber salad, or papadum.",
+                "rating": 4.0
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/high-angle-pakistan-meal-composition_23-2148821517.jpg?w=1380&t=st=1683011020~exp=1683011620~hmac=cdcd820aefc44101f9b4129e0d30943670dd2c5ff8c0c793d89d69083cf0b1e5",
+                "name": "Chicken Biryani",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "1 lb chicken, cut into small pieces",
+                    "2 onions, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp ghee",
+                    "1 tsp cumin seeds",
+                    "1 cinnamon stick",
+                    "4 green cardamom pods",
+                    "4 cloves",
+                    "1 bay leaf",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp garam masala powder",
+                    "1/4 tsp turmeric powder",
+                    "1 cup plain yogurt",
+                    "1/2 cup fresh mint leaves, chopped",
+                    "1/2 cup fresh cilantro leaves, chopped",
+                    "salt to taste",
+                    "2 cups water"
+                  ],
+                "cookingMethod": "1. Rinse the rice in cold water until the water runs clear. Soak the rice in water for 30 minutes, then drain and set aside. 2. In a large pot, heat the vegetable oil and ghee over medium-high heat. Add the cumin seeds, cinnamon stick, green cardamom pods, cloves, and bay leaf, and cook for 1-2 minutes until fragrant. 3. Add the sliced onions and cook until they are golden brown, stirring occasionally. 4. Add the chicken pieces and cook for 5-7 minutes until they are browned on all sides. 5. Add the ginger paste, garlic paste, red chilli powder, coriander powder, cumin powder, garam masala powder, turmeric powder, and salt, and stir well. 6. Add the plain yogurt and mix well. 7. Add the chopped mint and cilantro leaves, and mix well. 8. Add the soaked rice and 2 cups of water, and stir gently to combine. 9. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a tight-fitting lid. 10. Cook for 20-25 minutes until the rice is tender and the water has been absorbed. 11. Remove the pot from the heat and let it sit for 5 minutes. 12. Fluff the rice with a fork, then serve hot with raita and papadum.",
+                "rating": 3.5
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/free-photo/close-up-rice-with-carrots-garnished-with-lamb-pieces-served-with-pickles-yogurt_141793-2051.jpg?w=1380&t=st=1683011175~exp=1683011775~hmac=dc757eff1fd4ac439b25356e26da19f32885aaad8b36c7ffebdde5547e77af92",
+                "name": "Beef Biryani",
+                "ingredients": [
+                    "2 cups basmati rice (washed and soaked for 30 minutes)",
+                    "1 lb beef (cut into small pieces)",
+                    "1 cup plain yogurt",
+                    "1 large onion (sliced)",
+                    "2 tomatoes (chopped)",
+                    "2 green chilies (slit lengthwise)",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp garam masala powder",
+                    "1/2 tsp turmeric powder",
+                    "4 cloves",
+                    "4 cardamom pods",
+                    "1 cinnamon stick",
+                    "4 tbsp vegetable oil",
+                    "4 cups water",
+                    "salt to taste",
+                    "fresh coriander leaves (chopped, for garnish)"
+                  ],
+                "cookingMethod":"1. Heat oil in a large pot or Dutch oven over medium-high heat. 2. Add sliced onions and fry until golden brown. 3. Add beef pieces, ginger paste, garlic paste, and salt. Fry until the beef is browned on all sides. 4. Add chopped tomatoes, green chilies, cumin powder, coriander powder, garam masala powder, turmeric powder, cloves, cardamom pods, and cinnamon stick. Mix well and cook for 5-7 minutes. 5. Add plain yogurt and mix well. 6. Add 4 cups of water and bring it to a boil. 7. Add soaked rice and salt. Mix well and bring it to a boil. 8. Reduce the heat to low, cover the pot, and let it simmer for 20-25 minutes or until the rice is cooked and the water is absorbed. 9. Turn off the heat and let it sit covered for 10 minutes. 10. Garnish with chopped coriander leaves and serve hot.",
+                "rating": 3.2
+            },
+            {
+                "id": 4,
+                "image": "https://img.freepik.com/free-photo/green-curry-with-eggs-black-cups-with-lemon-lemongrass-chili-tomatoes_1150-25745.jpg?w=1380&t=st=1683012349~exp=1683012949~hmac=56c724ce265bee0b6aaa26bfafa33a488bccbcc7958444f308f34d3301007989",
+                "name": "Dimer Korma",
+                "ingredients": [
+                    "4 boiled eggs",
+                    "1/2 cup chopped onion",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1/2 tsp turmeric powder",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp garam masala powder",
+                    "1/4 cup plain yogurt",
+                    "1/4 cup heavy cream",
+                    "2 tbsp vegetable oil",
+                    "salt to taste",
+                    "chopped cilantro for garnish"
+                  ],
+                "cookingMethod": "1. In a frying pan, heat the oil over medium heat. Add chopped onions and fry until they turn translucent. 2. Add ginger paste and garlic paste to the pan and fry until the raw smell goes away. 3. Add turmeric powder, red chilli powder, coriander powder, cumin powder, garam masala powder, and salt to the pan. Mix well and fry for 1-2 minutes. 4. Add the boiled eggs to the pan and coat them well with the spice mixture. Fry for 1-2 minutes. 5. In a separate bowl, mix plain yogurt and heavy cream. Add this mixture to the pan and mix well. 6. Cook for 5-7 minutes or until the gravy thickens. 7. Garnish with chopped cilantro and serve hot with rice or naan.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-holding-rolling-pin-isolated-pink-wall_141793-101104.jpg?w=1380&t=st=1682974126~exp=1682974726~hmac=a0b029790bbb240f8e1b43329839aaeb9e89e9cb7a197ac7d4c91c4639059645",
+        "name": "Robin Islam",
+        "bio": "With a focus on healthy eating, Chef Robin Islam is a pioneer of the clean eating movement in Bangladesh. He is passionate about using locally sourced, organic ingredients to create dishes that are not only delicious but also good for the body.",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 55,
+        "likes": 1800,
+        "recipe": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/free-photo/baked-chicken-tabaka-with-spices_1220-4968.jpg?w=1380&t=st=1683010580~exp=1683011180~hmac=a7c387751c805f91fdbfb215fdb27a77d1f0cc2f4d4656a567a5fee55abbc1a2",
+                "name": "Full Chicken BBQ",
+                "ingredients":[
+                    "1 whole chicken",
+                    "1/2 cup olive oil",
+                    "1/4 cup lemon juice",
+                    "2 tbsp paprika",
+                    "1 tbsp garlic powder",
+                    "1 tbsp onion powder",
+                    "1 tsp dried thyme",
+                    "1 tsp dried oregano",
+                    "1 tsp salt",
+                    "1/2 tsp black pepper"
+                  ],
+                "cookingMethod":"1. Preheat the grill to medium-high heat. 2. In a bowl, mix the olive oil, lemon juice, paprika, garlic powder, onion powder, thyme, oregano, salt, and black pepper to make a marinade. 3. Rinse the chicken and pat it dry with paper towels. 4. Rub the chicken with the marinade, making sure to coat it well on all sides, including the cavity. 5. Place the chicken on the grill, breast side up. 6. Cover the grill and cook the chicken for 30 minutes. 7. Turn the chicken over and continue cooking for another 30-40 minutes, or until the chicken is cooked through and the juices run clear. 8. Remove the chicken from the grill and let it rest for 5-10 minutes before carving. 9. Serve hot with your favorite sides and enjoy!",
+                "rating": 3.5
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/sour-curry-with-snakehead-fish-spicy-garden-hot-pot-thai-food_1150-26405.jpg?w=1380&t=st=1683010662~exp=1683011262~hmac=cae254a90601552b8577bdc3160ebd39fef360232ffec2251b650404a8b56b45",
+                "name": "Fish BBQ",
+                "ingredients": [
+                    "4 fish fillets (any firm white fish)",
+                    "2 tbsp olive oil",
+                    "2 tbsp lemon juice",
+                    "2 garlic cloves (minced)",
+                    "1 tsp paprika",
+                    "1 tsp dried oregano",
+                    "1/2 tsp salt",
+                    "1/4 tsp black pepper"
+                  ],
+                "cookingMethod": "1. In a small bowl, mix together olive oil, lemon juice, minced garlic, paprika, dried oregano, salt, and black pepper. 2. Place the fish fillets in a shallow dish and pour the marinade over them, making sure they are well coated. 3. Cover the dish with plastic wrap and refrigerate for at least 30 minutes, or up to 2 hours. 4. Preheat the grill to medium-high heat. 5. Remove the fish fillets from the marinade and discard the remaining marinade. 6. Place the fish fillets on the grill, skin-side down, and cook for 4-5 minutes per side, or until the fish is cooked through and flakes easily with a fork. 7. Serve hot with your favorite side dishes and enjoy!",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/free-photo/grilled-beef-steak-dark-wooden-surface_1150-44344.jpg?w=1380&t=st=1683010795~exp=1683011395~hmac=07948d8671443feddde16694ebfeb94b1ab7bef95636bc3440e356cd10cc702a",
+                "name": "Beef Stack BBQ",
+                "ingredients": [
+                    "1 lb beef sirloin steak",
+                    "1 large red onion, sliced",
+                    "1 large red bell pepper, sliced",
+                    "1 large green bell pepper, sliced",
+                    "1/2 cup barbecue sauce",
+                    "1 tbsp olive oil",
+                    "salt and black pepper to taste"
+                  ],
+                "cookingMethod":"1. Preheat the grill to medium-high heat. 2. Season the beef sirloin steak with salt and black pepper. 3. Grill the steak for 3-4 minutes on each side for medium-rare doneness. 4. Remove the steak from the grill and let it rest for 5 minutes. 5. While the steak is resting, heat the olive oil in a skillet over medium-high heat. 6. Add the sliced red onion and bell peppers to the skillet and sauté for 5-7 minutes or until they are soft and slightly caramelized. 7. Cut the steak into thin slices. 8. To assemble the beef stack, place a slice of steak on a plate, top it with a spoonful of the sautéed onions and bell peppers, and drizzle some barbecue sauce over it. 9. Repeat the layers until all the steak is used up, ending with a layer of sautéed onions and bell peppers on top. 10. Serve hot and enjoy!",
+                "rating": 4.0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-holding-rolling-pin-pointing-side-isolated-pink-wall_141793-101106.jpg?w=1380&t=st=1682974075~exp=1682974675~hmac=e97ff0d79e0253cf6313db5f87cedcf7b4fa5311ed63ac795f9cf94434d34402",
+        "name": "Ashraf Ahammed",
+        "bio": "With a passion for international cuisine, Chef Ashraf Ahammed is constantly exploring new flavors and techniques. He has trained in some of the world's top culinary schools and has worked in a range of high-end restaurants in Bangladesh and beyond.",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 90,
+        "likes": 4000,
+        "recipe": [
+            {
+                "id": 1,
+                "image": "https://img.freepik.com/free-photo/overhead-view-fried-fishes-lemon-slices-brown-plate-spices-tomatoes-oil-bottle-mix-colors-table-with-free-space_179666-18185.jpg?w=1380&t=st=1683009836~exp=1683010436~hmac=69a70f2186739e9e8216cdf76e89ad4245c5a45061716ddb9dca8f61ae9e0211",
+                "name": "Fish Fry",
+                "ingredients": [
+                    "1 lb fish (cut into fillets)",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp turmeric powder",
+                    "1/4 tsp garam masala powder",
+                    "1/4 cup all-purpose flour",
+                    "1/4 cup cornflour",
+                    "1/4 cup breadcrumbs",
+                    "2 tbsp vegetable oil",
+                    "salt to taste"
+                  ],
+                "cookingMethod": "1. Wash the fish fillets and pat them dry with paper towels. 2. In a bowl, mix the fish with ginger paste, garlic paste, red chilli powder, coriander powder, cumin powder, turmeric powder, garam masala powder, and salt. Mix well and let it marinate for 30 minutes. 3. In another bowl, mix all-purpose flour, cornflour, breadcrumbs, and a pinch of salt. 4. Dip each fish fillet in the flour mixture and coat well on all sides. 5. Heat oil in a frying pan over medium-high heat. 6. Fry the fish fillets in the oil until they are crispy and golden brown on both sides, turning occasionally. This should take about 5-6 minutes. 7. Once the fish is cooked through and crispy, remove it from the pan and place it on a paper towel to drain off the excess oil. 8. Serve hot with lemon wedges and your favorite dipping sauce.",
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=1380&t=st=1683009735~exp=1683010335~hmac=1f8ce304c14273eb7c7719236d6d1a44c1995bee5b65371bbb79fe07c6acc7aa",
+                "name": "Chicken Fry",
+                "ingredients": [
+                    "1 lb chicken (cut into small pieces)",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp garam masala powder",
+                    "1/4 tsp turmeric powder",
+                    "1/4 cup all-purpose flour",
+                    "1/4 cup cornflour",
+                    "1/4 cup breadcrumbs",
+                    "2 tbsp vegetable oil",
+                    "salt to taste"
+                  ],
+                "cookingMethod": "Wash the chicken pieces and pat them dry. Mix the chicken with ginger paste, garlic paste, red chilli powder, coriander powder, cumin powder, garam masala powder, turmeric powder, and salt. Let it marinate for 30 minutes. In another bowl, mix all-purpose flour, cornflour, breadcrumbs, and a pinch of salt. Dip each chicken piece in the flour mixture and coat well on all sides. Heat oil in a frying pan over medium-high heat. Fry the chicken pieces in the oil until they are crispy and golden brown on all sides. This should take about 8-10 minutes. Once the chicken is cooked through and crispy, remove it from the pan and place it on a paper towel to drain off the excess oil. Serve hot with your favorite dipping sauce.",
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/free-photo/side-view-rice-garnish-with-fried-onion-carrot-greens-chili-pepper-table_141793-5069.jpg?w=1380&t=st=1683009591~exp=1683010191~hmac=6203adbcc085a08ca067f459697b8a6129a71e659e7cb9199818c43fd303119d",
+                "name": "Chicken Biriyani",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "1 lb chicken, cut into small pieces",
+                    "2 onions, thinly sliced",
+                    "2 tbsp vegetable oil",
+                    "2 tbsp ghee",
+                    "1 tsp cumin seeds",
+                    "1 cinnamon stick",
+                    "4 green cardamom pods",
+                    "4 cloves",
+                    "1 bay leaf",
+                    "1 tsp ginger paste",
+                    "1 tsp garlic paste",
+                    "1 tsp red chilli powder",
+                    "1 tsp coriander powder",
+                    "1/2 tsp cumin powder",
+                    "1/2 tsp garam masala powder",
+                    "1/4 tsp turmeric powder",
+                    "1 cup plain yogurt",
+                    "1/2 cup fresh mint leaves, chopped",
+                    "1/2 cup fresh cilantro leaves, chopped",
+                    "salt to taste",
+                    "2 cups water"
+                  ],
+                "cookingMethod": "1. Rinse the rice in cold water until the water runs clear. Soak the rice in water for 30 minutes, then drain and set aside. 2. In a large pot, heat the vegetable oil and ghee over medium-high heat. Add the cumin seeds, cinnamon stick, green cardamom pods, cloves, and bay leaf, and cook for 1-2 minutes until fragrant. 3. Add the sliced onions and cook until they are golden brown, stirring occasionally. 4. Add the chicken pieces and cook for 5-7 minutes until they are browned on all sides. 5. Add the ginger paste, garlic paste, red chilli powder, coriander powder, cumin powder, garam masala powder, turmeric powder, and salt, and stir well. 6. Add the plain yogurt and mix well. 7. Add the chopped mint and cilantro leaves, and mix well. 8. Add the soaked rice and 2 cups of water, and stir gently to combine. 9. Bring the mixture to a boil, then reduce the heat to low and cover the pot with a tight-fitting lid. 10. Cook for 20-25 minutes until the rice is tender and the water has been absorbed. 11. Remove the pot from the heat and let it sit for 5 minutes. 12. Fluff the rice with a fork, then serve hot with raita and papadum.",
+                "rating": 3.9
+            }
+        ]
+    }
+]
